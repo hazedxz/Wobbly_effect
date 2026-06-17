@@ -13,13 +13,13 @@ A lightweight, zero-dependency Win32 desktop application that brings smooth, phy
 
   
 
-## 🛠️ Compilation
+##  Compilation
 
 Compile using GCC/MinGW with the following command to target the GUI subsystem and optimize performance:
 
 ```bash
 g++ main.cpp -o "Wobbly Effect.exe" -luser32 -lgdi32 -lshell32 -mwindows -O3
-🎛️ Usage
+ Usage
 Launch the executable.
 
 Click the toggle button to activate the effect.
