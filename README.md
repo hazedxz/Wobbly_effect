@@ -4,7 +4,9 @@ A lightweight, zero-dependency Win32 desktop application that brings smooth, phy
 
 ## Showcase
 
-https://github.com/user-attachments/assets/14171711-d602-49e2-8854-334ee95b8e81
+https://github.com/user-attachments/assets/b5631596-1224-4fc7-b57f-cd43a92f9173
+
+
 
 
 
