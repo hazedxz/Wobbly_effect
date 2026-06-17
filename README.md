@@ -2,14 +2,13 @@
 
 A lightweight, zero-dependency Win32 desktop application that brings smooth, physics-based "jelly" animations to Windows OS windows when dragged.
 
+## Showcase
+
 ##  Features
 * **Real-time Physics:** Driven by a discrete mass-spring-damper model using Hooke's law.
-* 
-* **GDI Rendering:** Uses native Win32 GDI APIs (`PlgBlt` affine transformations) running at 60 FPS.
-* 
-* **Background Persistence:** Overrides `WM_CLOSE` to minimize to the System Tray (`Shell_NotifyIcon`).
-* 
-* **Toggle GUI:** Features a minimalist interface to easily activate or deactivate the global mouse hook.
+* * **GDI Rendering:** Uses native Win32 GDI APIs (`PlgBlt` affine transformations) running at 60 FPS.
+* * **Background Persistence:** Overrides `WM_CLOSE` to minimize to the System Tray (`Shell_NotifyIcon`).
+* * **Toggle GUI:** Features a minimalist interface to easily activate or deactivate the global mouse hook.
 
   
 
