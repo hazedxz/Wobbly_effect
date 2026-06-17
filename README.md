@@ -4,6 +4,10 @@ A lightweight, zero-dependency Win32 desktop application that brings smooth, phy
 
 ## Showcase
 
+https://github.com/user-attachments/assets/14171711-d602-49e2-8854-334ee95b8e81
+
+
+
 ##  Features
 * **Real-time Physics:** Driven by a discrete mass-spring-damper model using Hooke's law.
 * * **GDI Rendering:** Uses native Win32 GDI APIs (`PlgBlt` affine transformations) running at 60 FPS.
